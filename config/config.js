@@ -88,6 +88,11 @@ export default {
       authority: ['admin', 'user'],
       routes: [
         {
+          name: 'listcardlist',
+          path: '/listcardlist',
+          component: './ListCardList',
+        },
+        {
           path: '/',
           name: 'welcome',
           icon: 'smile',
