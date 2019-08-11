@@ -14,8 +14,9 @@ class ListCardList extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      unusedTest: ''
-    }
+      unusedTest: '',
+      test: '',
+    };
   }
 
   componentDidMount() {
