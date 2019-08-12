@@ -17,7 +17,6 @@ class ListCardList extends Component {
       unusedTest: '',
       test: '',
       test1: '',
-      test2: '',
     };
   }
 
