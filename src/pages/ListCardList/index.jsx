@@ -16,7 +16,8 @@ class ListCardList extends Component {
     this.state = {
       unusedTest: '',
       test: '',
-      test1: ''
+      test1: '',
+      test2: '',
     };
   }
 
